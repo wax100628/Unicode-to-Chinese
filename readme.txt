@@ -1,8 +1,6 @@
-MIME plugin for Notepad++ implements several main functionnalities defined in MIME (Multipurpose Internet Mail Extensions) :
-1. Base64 Encoding/Decoding
-2. Quoted-printable Encoding/Decoding
-3. URL Encoding/Decoding
-4. SAML Decoding (though it's not part of MIME)
+This plugin for Notepad++ implements two main functionnalities:
+1. Convert Unicode16 codes to Chinese or ASCII chars.
+2. Convert Chinese or ASCII chars to Unicode16 codes.
 
 This plugin is under GPL.
-Don Ho <don.h@free.fr>
+wax628 <wax628@gmail.com>
