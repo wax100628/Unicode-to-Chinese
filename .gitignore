@@ -1,0 +1,15 @@
+*.suo
+*.sdf
+*.aps
+*.sln
+*.ilk
+*.vcxproj.filters
+*.vcxproj.user
+UpgradeLog.htm
+Debug/
+Release/
+x64/
+vs.proj/x64/
+vs.proj/Release/
+vs.proj/Debug/
+vs.proj/Unicode2Chs.opensdf
